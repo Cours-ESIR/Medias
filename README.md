@@ -8,7 +8,7 @@ si vous possédez ffmpeg les commandes les plus adaptées sont :
 
 ```
 # AV1
-ffmpeg -i input.mp4 -c:v libsvtav1 output.mkv
+ffmpeg -i input.mp4 -c:v libsvtav1 output.webm
 
 #VP9
 ffmpeg -i input.mp4 -c:v libvpx-vp9 output.webm
