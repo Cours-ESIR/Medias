@@ -14,6 +14,6 @@ ffmpeg -i input.mp4 -c:v libsvtav1 output.mkv
 ffmpeg -i input.mp4 -c:v libvpx-vp9 output.mkv
 ```
 
-## Vidéos
+## Images
 
 Pour vos vidéos encodez-les de préférence en AVIF ou en WEBP
