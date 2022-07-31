@@ -11,7 +11,7 @@ si vous possédez ffmpeg les commandes les plus adaptées sont :
 ffmpeg -i input.mp4 -c:v libsvtav1 output.mkv
 
 #VP9
-ffmpeg -i input.mp4 -c:v libvpx-vp9 output.mkv
+ffmpeg -i input.mp4 -c:v libvpx-vp9 output.webm
 ```
 
 ## Images
